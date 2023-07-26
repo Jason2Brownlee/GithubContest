@@ -21,7 +21,9 @@ A new KNN based recommender system was then developed in Objective-C.
 
 Code was not saved.
 
-A version of the ruby code might have been saved on internet archive.
+A version of the [ruby code](https://web.archive.org/web/20100207124042/http://github.com/jbrownlee/github-contest/tree/2e8af6d982ab9c6505081bec4bae93400afadf0d/ruby) was captured on internet archive.
+
+* [snapshot of ruby code](src/)
 
 
 ## Sources
